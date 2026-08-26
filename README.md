@@ -13,7 +13,7 @@
 
 </div>
 
-## About me 🤖 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmxrMjd1ejZ0bWw5aXlkeGNnNHN4Y3B2cDRreWVwZ25lZXlyYmRsdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="155" align="right" />
+## About me 🤖 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmxrMjd1ejZ0bWw5aXlkeGNnNHN4Y3B2cDRreWVwZ25lZXlyYmRsdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="150" align="right" />
 
 
 * First-year computer engineering student at Rajamangala University of Technology Isan, Khon Kaen campus.
