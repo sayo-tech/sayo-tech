@@ -19,7 +19,7 @@
 * First-year computer engineering student at Rajamangala University of Technology Isan, Khon Kaen campus.
 * I want to develop myself to move into an advanced and stable tech career.
 * I like anime and listening to music.
-* My website : 
+* My website : https://sayo-tech.github.io/index.html/
 
 ---
 
